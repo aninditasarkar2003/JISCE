@@ -1,1 +1,1 @@
-Demo project of JISCE
+*Demo project of JISCE*
